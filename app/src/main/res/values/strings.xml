@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+
+    <string name="warning_dialog">Warning dialog</string>
+    <string name="warn_title">Necessary data</string>
+    <string name="warn">Please enter all data.</string>
+
+    <string name="exit_dialog">Exit app</string>
+    <string name="exit_title">Exit from app</string>
+    <string name="exit_message">Are you sure want exit app?</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+
+    <string name="list_dialog">List dialog</string>
+    <string name="chose_language">Chose language</string>
+    <string name="multiple_list_dialog">Multpile choice list</string>
+    <string name="input_dialog">Dialog with input text</string>
+    <string name="insert_text">Insert text here</string>
+
+    <string name="start_circle">Start circle simulation</string>
+    <string name="start_progress">Start progress simulation</string>
+</resources>
